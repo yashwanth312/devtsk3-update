@@ -1,3 +1,3 @@
 <?php
-echo "Updated code"
+echo "Updated code , approved by the testing team"
 ?>
